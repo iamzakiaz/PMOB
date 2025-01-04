@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "921967246177",
+    "firebase_url": "https://p8kli-8982b-default-rtdb.firebaseio.com",
+    "project_id": "p8kli-8982b",
+    "storage_bucket": "p8kli-8982b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921967246177:android:959da61c818a62018c6320",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan8_ajah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTh2VELSU2oHz2dV5IxD6kqfkUp_KlDwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
